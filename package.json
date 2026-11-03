@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ni-caselaw",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Northern Ireland court and tribunal judicial decisions — judiciaryni.uk.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ni-caselaw",
     "gatewaySlug": "ni-caselaw",
-    "sourceHash": "v1-921f5f83e9b0ab9b0a95fa40d0dc3c5d1c8792463f69fefcff9b82de90912f21",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-f9eab6b65d3fb7b1aa2475a085dba324a0225d1a0817a2f4bb717e3c13118200",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
